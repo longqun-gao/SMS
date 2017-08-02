@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SMSTest.iml" filepath="$PROJECT_DIR$/SMSTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/安卓热更新/安卓热更新.iml" filepath="$PROJECT_DIR$/安卓热更新/安卓热更新.iml" />
+      <module fileurl="file://$PROJECT_DIR$/安卓热更新demo/安卓热更新demo.iml" filepath="$PROJECT_DIR$/安卓热更新demo/安卓热更新demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/滚动选择器/滚动选择器.iml" filepath="$PROJECT_DIR$/滚动选择器/滚动选择器.iml" />
+    </modules>
+  </component>
+</project>
